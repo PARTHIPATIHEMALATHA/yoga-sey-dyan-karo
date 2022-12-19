@@ -8,6 +8,9 @@ This is a web based application developed for Yoga Say Dyan Karo related based w
 *Project Link* - 
 
 
+*project demo video link* -
+
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
