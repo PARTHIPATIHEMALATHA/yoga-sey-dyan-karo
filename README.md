@@ -5,7 +5,7 @@ This is a web based application developed for Yoga Say Dyan Karo related based w
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* - https://parthipatihemalatha.github.io/yoga-sey-dyan-karo/index.html
 
 
 *project demo video link* -
