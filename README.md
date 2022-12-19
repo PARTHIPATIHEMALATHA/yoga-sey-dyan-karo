@@ -110,7 +110,6 @@ This is a web based application developed for Yoga Say Dyan Karo related based w
 
 
 ### Blog -
-
 ![Screenshot (5)](https://user-images.githubusercontent.com/118505703/208386180-c72665af-675d-4b45-9e7a-cd14b6252c6b.png)
 
 
@@ -132,10 +131,35 @@ This is a web based application developed for Yoga Say Dyan Karo related based w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Contact -
-
-
 ![Screenshot (6)](https://user-images.githubusercontent.com/118505703/208386203-04768605-bde2-497d-bbd8-6fab12178a00.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -177,8 +201,47 @@ This is a web based application developed for Yoga Say Dyan Karo related based w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Azure Health Bot -
 ![Screenshot (9)](https://user-images.githubusercontent.com/118505703/208388533-b3081b0d-8463-4b8e-8daa-b878b406bd81.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
