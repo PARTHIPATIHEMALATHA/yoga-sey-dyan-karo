@@ -8,7 +8,7 @@ This is a web based application developed for Yoga Say Dyan Karo related based w
 *Project Link* -https://zealous-tree-06ba3a210.2.azurestaticapps.net 
 
 
-*project demo video link* -https://youtu.be/UUzJinmgplo
+*project demo video link* -
 
 
 ## Features and Functionalities 😃
